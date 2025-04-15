@@ -123,6 +123,18 @@ The following visualizations were created using **Power BI** to analyze and pres
 
 <a href = "https://github.com/itsmaanish/Ola-Ride-Cancellation-Analysis-Dashboard-Project/tree/main/OLA%20DashBoard%20Screenshots"> OLA Dashboard </a>
 
+## Dashboard Samples
+
+![Page 1](https://github.com/user-attachments/assets/9d02e44e-35a9-4f02-853c-06b194dd8def)
+![Page 2](https://github.com/user-attachments/assets/7a2762a5-b853-4c4f-b6f2-f6d0771288bb)
+![Page 3](https://github.com/user-attachments/assets/447fe75b-a0f7-4428-a3a3-8f36730fa555)
+![Page 4](https://github.com/user-attachments/assets/b22f40d5-e95b-438e-a196-a7bc8f53db42)
+![Page 5](https://github.com/user-attachments/assets/aa4785b6-2979-4679-9216-820aca1c4a9f)
+
+
+
+
+
                                                                                                                               
 
 
