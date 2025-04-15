@@ -62,4 +62,67 @@ To analyze historical ride data to identify key reasons and trends behind ride c
 ## Datasets used
 <a href = "https://github.com/itsmaanish/Ola-Ride-Cancellation-Analysis-Dashboard-Project/blob/main/Bookings.csv"> OLA DataSets </a>
 
+## 💾 **SQL Analysis Questions & Views**
+  1. Retrieve all successful bookings:
+  2. Find the average ride distance for each vehicle type:
+  3. Get the total number of cancelled rides by customers:
+  4. List the top 5 customers who booked the highest number of rides:
+  5. Get the number of rides cancelled by drivers due to personal and car-related issues:
+  6. Find the maximum and minimum driver ratings for Prime Sedan bookings:
+  7. Retrieve all rides where payment was made using UPI:
+  8. Find the average customer rating per vehicle type:
+  9. Calculate the total booking value of rides completed successfully:
+ 10. List all incomplete rides along with the reason:
+
+---
+## 📊 Power BI Analysis Questions
+  1. Ride Volume Over Time
+  2. Booking Status Breakdown
+  3. Top 5 Vehicle Types by Ride Distance
+  4. Average Customer Ratings by Vehicle Type
+  5. cancelled Rides Reasons
+  6. Revenue by Payment Method
+  7. Top 5 Customers by Total Booking Value
+  8. Ride Distance Distribution Per Day
+  9. Driver Ratings Distribution
+ 10. Customer vs. Driver Ratings
+
+The following visualizations were created using **Power BI** to analyze and present insights from the OLA ride booking dataset:
+
+1. **📈 Ride Volume Over Time**  
+   - A time-series line chart showing the number of rides per day or week to analyze trends and peak ride timings.
+
+2. **📊 Booking Status Breakdown**  
+   - A pie or donut chart displaying the percentage distribution of booking statuses: Success, Cancelled by Customer, Cancelled by Driver, and Incomplete.
+
+3. **🚗 Top 5 Vehicle Types by Ride Distance**  
+   - A bar chart highlighting which vehicle types covered the most distance, based on total kilometers ridden.
+
+4. **🌟 Average Customer Ratings by Vehicle Type**  
+   - A column chart showing the average customer rating for each vehicle type to assess service satisfaction.
+
+5. **❌ Cancelled Ride Reasons**  
+   - Two separate bar charts showing common reasons for ride cancellations by both customers and drivers.
+
+6. **💰 Revenue by Payment Method**  
+   - A stacked bar or column chart displaying total booking revenue segmented by different payment methods like UPI, Cash, Credit Card, etc.
+
+7. **🏆 Top 5 Customers by Total Booking Value**  
+   - A leaderboard chart showing the top 5 customers based on the total amount spent on bookings.
+
+8. **📅 Ride Distance Distribution Per Day**  
+   - A histogram or line chart to visualize the spread and frequency of ride distances across different days.
+
+9. **⭐ Driver Ratings Distribution**  
+   - A box or violin plot showing the distribution and variance in driver ratings across various vehicle types.
+
+10. **⚖️ Customer vs. Driver Ratings**  
+   - A scatter plot comparing customer ratings versus driver ratings for each ride, used to analyze rating correlation.
+
+## 📊 Power BI Dashboard Preview:
+
+<a href = "https://github.com/itsmaanish/Ola-Ride-Cancellation-Analysis-Dashboard-Project/tree/main/OLA%20DashBoard%20Screenshots"> OLA Dashboard </a>
+
+                                                                                                                              
+
 
