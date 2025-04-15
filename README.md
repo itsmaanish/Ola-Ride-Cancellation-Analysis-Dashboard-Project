@@ -29,14 +29,6 @@ To analyze historical ride data to identify key reasons and trends behind ride c
 
 ---
 
-## 📊 **Key Insights & Outcome**
-- Identified top cancellation reasons such as driver unavailability and peak hour congestion.
-- Highlighted cancellation patterns across locations and time slots.
-- Supported the development of a new operational strategy.
-- **Result:** Achieved a **10% reduction** in ride cancellation rate.
-
----
-
 ## 📁 **Dataset Columns**
 1. Date  
 2. Time  
@@ -131,7 +123,11 @@ The following visualizations were created using **Power BI** to analyze and pres
 ![Page 4](https://github.com/user-attachments/assets/b22f40d5-e95b-438e-a196-a7bc8f53db42)
 ![Page 5](https://github.com/user-attachments/assets/aa4785b6-2979-4679-9216-820aca1c4a9f)
 
-
+## 📊 **Key Insights & Outcome**
+- Identified top cancellation reasons such as driver unavailability and peak hour congestion.
+- Highlighted cancellation patterns across locations and time slots.
+- Supported the development of a new operational strategy.
+- **Result:** Achieved a **10% reduction** in ride cancellation rate.
 
 
 
